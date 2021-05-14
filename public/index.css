@@ -1,0 +1,30 @@
+* {
+    font-family: sans-serif;
+}
+
+#container {
+    height: 100%;
+    margin: 0px;
+    scale: 1.25;
+}
+
+.container{
+    margin-top: 50px;
+}
+#heading{
+    background-color: #303030;
+    color: aliceblue;
+    padding: 25px;
+}
+
+span{
+font-weight: 900;
+}
+
+h5{
+    font-family: 'Open Sans';
+    font-weight: 300;
+}
+.row{
+    margin-top: 50px;
+}
